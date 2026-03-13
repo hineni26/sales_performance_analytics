@@ -178,6 +178,16 @@ This project demonstrates practical skills used in analytics roles:
 
 ---
 
+## Dataset
+
+A sample dataset is provided for demonstration:
+
+data/sample_sales_data.csv
+
+The full dataset can be generated using the notebook:
+
+notebooks/data_generation.ipynb
+
 ## Author
 
 Ahan  
