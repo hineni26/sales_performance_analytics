@@ -56,7 +56,6 @@ sales_performance_analytics
 │
 ├─ reports
 │   ├─ dashboard.png
-│   ├─ dashboard_preview.pdf
 │   ├─ sales_forecast.png
 │   └─ business_insights.md
 │
