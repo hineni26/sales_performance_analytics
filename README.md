@@ -1,7 +1,8 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![SQL](https://img.shields.io/badge/SQL-SQLite-orange)
-![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
 ![License](https://img.shields.io/badge/License-GPLv3-blue)
+![Status](https://img.shields.io/badge/Project-Complete-green)
 
 # Sales Performance & Incentive Analytics
 
