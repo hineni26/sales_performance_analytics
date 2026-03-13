@@ -54,6 +54,9 @@ sales_performance_analytics
 │   ├─ data_generation.ipynb
 │   └─ sql_analysis.ipynb
 │
+├─ pipeline
+│   └─ build_dataset.py
+│
 ├─ reports
 │   ├─ dashboard.png
 │   ├─ sales_forecast.png
