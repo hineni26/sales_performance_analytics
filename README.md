@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![SQL](https://img.shields.io/badge/SQL-SQLite-orange)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![License](https://img.shields.io/badge/License-GPLv3-blue)
+
 # Sales Performance & Incentive Analytics
 
 A data analytics project that analyzes sales performance, evaluates incentive compensation models, and visualizes business insights through an interactive Power BI dashboard.
@@ -187,6 +192,16 @@ data/sample_sales_data.csv
 The full dataset can be generated using the notebook:
 
 notebooks/data_generation.ipynb
+
+## Installation
+
+Clone the repository:
+
+git clone https://github.com/yourusername/sales-performance-analytics
+
+Install dependencies:
+
+pip install -r requirements.txt
 
 ## Author
 
