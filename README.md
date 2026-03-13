@@ -62,6 +62,7 @@ sales_performance_analytics
 ├─ sql
 │   └─ analytics_queries.sql
 │
+├─ requirements.txt
 ├─ README.md
 └─ LICENSE
 ```
