@@ -203,6 +203,32 @@ Install dependencies:
 
 pip install -r requirements.txt
 
+---
+
+## Data Pipeline
+
+The project simulates a production-style analytics workflow.
+
+Pipeline steps:
+
+1. Generate synthetic sales data
+2. Process and clean the dataset
+3. Load data into a SQLite database
+4. Perform SQL analysis
+5. Visualize insights using Power BI
+
+Pipeline script:
+
+pipeline/build_dataset.py
+
+## Running the Pipeline
+
+Run the data pipeline:
+
+python pipeline/build_dataset.py
+
+---
+
 ## License
 
 This project is licensed under the **GNU General Public License v3.0 (GPLv3)**.
