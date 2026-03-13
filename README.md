@@ -159,6 +159,16 @@ Forecast visualization:
 
 ---
 
+## Interactive Dashboard
+
+The Power BI dashboard provides insights into revenue performance, incentive payouts, and regional sales distribution.
+
+Click the image below to view the full dashboard file.
+
+[![Sales Dashboard](reports/dashboard.png)](dashboard/sales_dashboard.pbix)
+
+---
+
 ## Example Business Insights
 
 - Total simulated revenue ≈ **125M**
